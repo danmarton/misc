@@ -1,0 +1,40 @@
+Mi lesz a feladatod a cégnél? Milyen témákban lehet Hozzád fordulni?
+Orvosi szakértői rendszert próbálok összerakni a Pentaho Business Intelligence Platform ingyenes változatából és a Solr keresőrendszerből, valamilyen open source adatbáziskezelő fölé.
+
+Továbbá:
+- Dokumentációk írása / fordítása (angolról)
+- Web research
+
+
+Mit szeretsz a szakterületeden?
+- Business Intelligence műszaki és menedzseri szemszögből is
+- Cloud Computing, szintén open source eszközökkel (pl Docker)
+- Funkcionális Programozás
+- Rendszertervezés en général (Módszerek, Minták, UML, stb.)
+- Projekt-menedzsment informatikai háttere
+- Matekatikai Statisztika
+- Scrum
+
+
+Mi volt az eddigi legnagyobb szakmai sikered?
+Ezt most hagyjuk! Későn érő típus vagyok. Ez van.
+
+
+Mi a mottód, életfilozófiád?
+- Mindent a lehető legegyszerűbben, de annál egyszerűbben ne
+- Realistának lenni, tehát követelni a lehetetlent
+
+
+Mivel töltöd szívesen a szabadidőd?
+Olvasás, Írás, Amatőr színjátszás, Progresszív Judaizmus, Politika
+
+
+Könyv: Sofie világa, Neuromancer, Malevil, Mester & Margarita
+Zene: Ladytron, Nine Inch Nails, Depeche Mode, Daft Punk, Muse
+Film: They Live, Dr Strangelove, Gyűlölet, Nagy Lebowski
+Sport: tollaslabda, úszás
+Ország: Görögország, Spanyolország, Hollandia
+
+
+Mi az a 3 dolog, amit magaddal vinnél egy lakatlan szigetre?
+Nem mondom meg! Szakmai titok... :)
